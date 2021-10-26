@@ -1,0 +1,23 @@
+{
+  "name": "v13 starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^13.0.0-dev.2675b08.1627603447"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Glycon0001/v13-starter/"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Glycon001"
+  },
+  "homepage": "https://github.com/Glycon0001/v13-starter/"
+}
